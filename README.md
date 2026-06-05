@@ -1,4 +1,4 @@
-# Edge AI Assistant (M4 Apple Silicon Optimized)
+# Edge AI Assistant 
 
 A high-performance, fully on-device AI assistant designed to run 100% offline on Apple Silicon (M1/M2/M3/M4) under a **1 GB RAM ceiling**. 
 
