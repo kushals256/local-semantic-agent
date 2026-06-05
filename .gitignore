@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# MacOS
+.DS_Store
+
+# Data & Databases (Personal Memories)
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Models (Too large for standard Git, should be downloaded locally)
+models/
+*.gguf
+*.onnx
+
+# IDEs
+.idea/
+.vscode/

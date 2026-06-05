@@ -1,0 +1,6 @@
+llama-cpp-python
+onnxruntime
+numpy
+huggingface-hub
+psutil
+transformers
