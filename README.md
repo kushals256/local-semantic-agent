@@ -57,7 +57,7 @@ python setup.py
 
 Launch the interactive assistant in your terminal:
 ```bash
-python main.py
+python src/main.py
 ```
 
 ### Interactive Commands (Slash Commands)
@@ -76,7 +76,7 @@ Type these directly into the `You:` prompt to inspect or manipulate the system s
 
 To run a series of automated performance tests measuring startup footprint, embedding speeds, and generation throughput, execute:
 ```bash
-python benchmark.py
+python src/benchmark.py
 ```
 This will generate a detailed markdown report inside `docs/benchmarks.md`.
 
